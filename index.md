@@ -12,19 +12,18 @@ pdf: true
 <a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
 </div>
 
-## 联系信息
+## 联系方式
 
 - 联系电话: 18870228704
 - Email: wll1138495549@gmail.com
 - github: https://github.com/Wyihao
 
-## Education
+## 教育经历
 
 ### __电子科技大学__ `2017.9 - 至今`
 
-- 
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- 计算机科学与技术专业硕士
+- 机器学习，数据挖掘与分析
 
 ### __电子科技大学__ `2013.9 - 2017.7`
 
