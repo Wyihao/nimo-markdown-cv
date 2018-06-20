@@ -41,12 +41,12 @@ pdf: true
 - Web开发：熟悉SpringMVC, Mybatis等框架
 - 数据库相关：熟悉应用MySQL, SQLite等数据库；
 - 版本管理、文档和自动化部署工具：熟练使用Git版本管理工具；
-- 编程语言：python, java, C++；
+- 编程语言：python熟练, java熟悉, C++熟悉；
 
 ## 项目经历
 
 ### __轨迹深度学习研究__  `2017.8 - 2018.1`
-_Research Assistant_<br>
+_科研研究_<br>
 __Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
@@ -57,23 +57,6 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
-
-
-## Honors & Awards
-
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honor `DIckinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `DIckinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `DIckinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `DIckinson, 2013` <br>
 
 <!-- ### Footer
 
