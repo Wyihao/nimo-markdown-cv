@@ -21,15 +21,17 @@ pdf: true
 ## 教育经历
 
 ### __电子科技大学__ `2017.9 - 至今`
-
+```
+研究生经历
+```
 - 计算机科学与技术专业硕士
 - 机器学习，数据挖掘与分析
 
 ### __电子科技大学__ `2013.9 - 2017.7`
-
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+```
+本科经历
+```
+- 获得计算机科学与技术专业学位
 
 ## Publications
 
