@@ -5,12 +5,7 @@ pdf: true
 ---
 # 汪轶豪
 
-<div id="webaddress">
-<i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
-<i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
-</div>
+
 
 ## 联系方式
 
@@ -20,7 +15,7 @@ pdf: true
 
 ## 教育经历
 
-### __电子科技大学__ `2017.9 - 至今`
+### __电子科技大学__ `2017.9 - 至今在读`
 ```
 成都
 ```
