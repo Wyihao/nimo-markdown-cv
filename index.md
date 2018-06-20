@@ -22,33 +22,30 @@ pdf: true
 
 ### __电子科技大学__ `2017.9 - 至今`
 ```
-研究生经历
+成都
 ```
-- 计算机科学与技术专业硕士
-- 机器学习，数据挖掘与分析
+计算机技术 硕士 计算机科学与工程学院
+研究方向：机器学习，数据挖掘与分析
 
 ### __电子科技大学__ `2013.9 - 2017.7`
 ```
-本科经历
+成都
 ```
-- 获得计算机科学与技术专业学位
+- 计算机科学与技术 本科 计算机科学与工程学院
 
-## Publications
+## 技能
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+- 机器学习：熟悉并实现过机器学习中SVM、概率图、聚类等算法；
+- 深度学习：熟悉深度学习网络原理，熟悉RNN模型，熟练tensorflow与pytorch框架；
+- 数据挖掘与分析：熟练scrapy爬虫框架，numpy和pandas数据挖掘工具；
+- Web开发：熟悉SpringMVC, Mybatis等框架
+- 数据库相关：熟悉应用MySQL, SQLite等数据库；
+- 版本管理、文档和自动化部署工具：熟练使用Git版本管理工具；
+- 编程语言：python, java, C++；
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+## 项目经历
 
-## Experience
-
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __轨迹深度学习研究__  `2017.8 - 2018.1`
 _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
