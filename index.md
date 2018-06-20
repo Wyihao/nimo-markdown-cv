@@ -45,18 +45,21 @@ pdf: true
 
 ## 项目经历
 
-### __轨迹深度学习研究__  `2017.8 - 2018.1`
+### __利用深度学习预测轨迹__  `2017.8 - 2018.1`
 _科研研究_<br>
-城市中的轨迹.
+使用时序网络模型从大量轨迹数据中学习到轨迹模式，然后预测的轨迹走向。将LSTM模型和路网中的拓扑结构结合起来，轨迹预测的准确率可以达到85%以上。
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### __澳大利亚交通数据处理__ `2017.5 - 2017.7`
+_数据处理_<br>
+使用numpy和pandas等科学数据包对大量交通数据进行缺失清洗和模糊查找，不同文件相同字段的匹配处理。并将数据进行聚类分析，然后用matplotlib将数据绘制成各种表格进行数据展示。
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __盟友英语预约系统__ `2017.2 - 2017.6`
+_网页后台开发_<br>
+与他人合作开发网页系统后台。主要负责为中间层提供数据查询接口，使用Spring框架 Java语言开发。优化数据库查询，建立合适索引，并在查询语句中覆盖索引，尽量从索引中取得数据。
 
+### __西门子工业自动化竞赛__ `2015.5 - 2015.8`
+_底层协议编写_<br>
+主要负责以TCP/IP协议为基础，编写一个符合工业自动化要求的传输协议。根据西门子提供的文档和底层代码，使用C语言为西门子公司提供的特定开发板编写相应的传输协议和调用接口。
 
 <!-- ### Footer
 
