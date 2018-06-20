@@ -12,20 +12,22 @@ pdf: true
 <a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
 </div>
 
+## 联系信息
+
+- 联系电话: 18870228704
+- Email: wll1138495549@gmail.com
+- github: https://github.com/Wyihao
+
 ## Education
 
 ### __电子科技大学__ `2017.9 - 至今`
-```
-New York, NY
-```
-- B.S. in Computer Science
+
+- 
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
 - Vision, Graphics track
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
+### __电子科技大学__ `2013.9 - 2017.7`
+
 - B.S. in Computer Science
 - Major GPA: __4.0__, Cumulative GPA: __3.93__
 - Computer Science Departmental Honors
