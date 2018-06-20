@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __电子科技大学__ `2017.9 - 至今`
 ```
 New York, NY
 ```
